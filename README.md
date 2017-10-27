@@ -4,7 +4,7 @@ Pixel eater is a simple java aplication made in the designing with algorithms cl
 <<<<<<< HEAD
 Es importante que el tamaño de la aplicacion.
 =======
-Es importante que el tamaño de la imagen sea igual al de la aplicación.
+Es importante que el tamaño de la imagen sea igual al de la aplicacion.
 >>>>>>> origin/master
 
 size(tamanoX,tamanoY);
