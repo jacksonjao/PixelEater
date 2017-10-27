@@ -15,7 +15,6 @@ public class Figura {
 		this.r = r;
 		this.g = g;
 		this.b = b;
-		//app.noStroke();
 	}
 	
 	public void pintar(){
